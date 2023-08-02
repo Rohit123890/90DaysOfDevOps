@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/basic-linux-shell-scripting-for-devops
