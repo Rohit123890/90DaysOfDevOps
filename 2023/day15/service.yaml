@@ -1,0 +1,18 @@
+---
+services:
+  debug: 'on'
+  AWS:
+    name: 'Ec2'
+    type: 'Pay per hour'
+    instance: '500'
+    count: '500'
+  Azure:
+    name: 'VM'
+    type: 'Pay per hour'
+    instance: '500'
+    count: '500'
+  GCP:
+    name: 'Compute Engine'
+    type: 'Pay per hour'
+    instance: '500'
+    count: '500'
