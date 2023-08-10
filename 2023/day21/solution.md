@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/docker-interview-essentials#heading-what-is-a-docker-namespace
