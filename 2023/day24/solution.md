@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/automating-cicd-pipeline-with-jenkins
