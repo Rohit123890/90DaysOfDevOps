@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/elevate-your-devops-game-with-jenkins#heading-what-is-cicd
