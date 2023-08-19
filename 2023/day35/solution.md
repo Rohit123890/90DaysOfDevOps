@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/managing-configuration-data-in-kubernetes
