@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/navigating-aws-services-and-cloud-strategies
