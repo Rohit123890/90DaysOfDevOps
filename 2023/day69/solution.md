@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/demystifying-meta-arguments-in-terraform
