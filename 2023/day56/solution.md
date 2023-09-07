@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/understanding-ad-hoc-commands-in-ansible
