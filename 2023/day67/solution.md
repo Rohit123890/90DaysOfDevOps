@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/working-with-aws-s3-bucket-creation-with-terraform
