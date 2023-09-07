@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/blocks-and-resources-in-terraform
