@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/working-with-terraform-resources
