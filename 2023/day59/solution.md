@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/deploying-nginx-with-ansible-on-aws-ec2-instances
