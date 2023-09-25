@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/mounting-an-aws-s3-bucket-on-amazon-ec2-linux-using-s3fs
