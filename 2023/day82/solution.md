@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/hosting-a-static-website-on-aws-s3
