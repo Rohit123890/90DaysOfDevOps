@@ -1,0 +1,1 @@
+https://devoperation.hashnode.dev/monitoring-ubuntu-and-windows-ec2-instances-with-grafana
